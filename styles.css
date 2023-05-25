@@ -3,5 +3,5 @@
 .holder{
 	display:flex;
 	justify-items:center;
-	flex-flow:center;
+	flex-flow:wrap;
 }
